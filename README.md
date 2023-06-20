@@ -1,5 +1,6 @@
 # Campo-Minado
 Código em c# com o jogo Campo Minado 
+
 (1) OBJETIVO DO PROGRAMA:
 O objetivo do programa é implementar um jogo de Campo Minado, onde o jogador deve revelar todas as células que não contêm bombas. 
 O jogo termina quando o jogador revela todas as células seguras ou quando acerta uma bomba.
